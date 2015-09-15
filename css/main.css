@@ -23,3 +23,13 @@ text-size-adjust: 100%;
 	background:#FA6446;
 	
 }
+
+.icon {
+	height:120px;
+	width:120px:
+}
+
+.text {
+	text-align:center;
+	color:#FFFFFF;
+}
