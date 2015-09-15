@@ -33,3 +33,7 @@ text-size-adjust: 100%;
 	text-align:center;
 	color:#FFFFFF;
 }
+
+.os {
+	font-family: 'Oswald', sans-serif;
+}
